@@ -1,0 +1,12 @@
+# data and build outputs
+data/
+out/
+
+# IDE and env files
+.vscode/
+__pycache__/
+.venv/
+
+# model and binary folders
+bin_files/
+models/
